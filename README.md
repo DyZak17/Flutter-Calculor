@@ -1,4 +1,4 @@
-# Flutter-Calculor
+# Flutter-Calculator
 
 1. Download and Extract in Lib directory
 2. Install package ( math_expressions 2.3.1 )  
